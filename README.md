@@ -69,6 +69,7 @@ Instead of disconnected fictional companies, every scenario in this portfolio ta
 Why a university? 
 
 Because it is a federation, a payment processor, a healthcare provider, a research institution, a landlord, a public body, and an ISP for 30,000 users who change every year. **GRC that works at XUST works anywhere.** That is the thesis of this portfolio — and because it is one universe, the SoA in the compliance repo references the same risk register that drives the vulnerability exceptions in the VM repo. The artefacts interlock the way they do in a real organisation.
+in addition, SA HEIs are also governed by King IV, which is used by companies.
 
 ```mermaid
 flowchart TD
