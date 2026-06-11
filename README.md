@@ -1,10 +1,10 @@
-# GRC Portfolio — Mile [Surname]
+# The GRC Campus — Chris 
 
 **Senior GRC Analyst | Fractional CISO | CISSP | ISO 27001 Lead Implementer**
 
-This portfolio demonstrates the full Governance, Risk & Compliance lifecycle — from board-level strategy to packet-level evidence — built and tested in one of the most regulation-dense environments that exists: South African higher education.
+This portfolio demonstrates the full Governance, Risk & Compliance lifecycle (from board-level strategy to packet-level evidence) built and tested in one of the most regulation-dense environments that exists: South African higher education.
 
-It is organised around one belief:
+I organised it around one belief:
 
 ```
 ┌──────────────────────────────────────────────────────────────────────┐
@@ -16,11 +16,11 @@ It is organised around one belief:
 └──────────────────────────────────────────────────────────────────────┘
 ```
 
-> **Honesty statement:** Artefacts marked `production-tested` were used in real engagements (anonymised and fictionalised — no client data appears anywhere in this portfolio). Artefacts marked `demonstrative` were built to portfolio standard to show methodology. The distinction stays visible because honest labelling is itself a GRC control.
+> **Disclaimer:** Artefacts marked `production-tested` were used in real engagements (anonymised and fictionalised so that no client data appears anywhere in this portfolio). Artefacts marked `demonstrative` were built to portfolio standard to show methodology. The distinction stays visible because honest labelling is itself a GRC control.
 
 ---
 
-## ⏱ Recruiter quick tour (5 minutes)
+## ⏱ Quick tour (5 minutes)
 
 1. **[The University as a Compliance Microcosm](https://github.com/YOURHANDLE/university-grc-case-study)** — one institution, six regulatory regimes (ISO 27001, POPIA, PAIA, GDPR, PCI DSS, HIPAA-benchmark), one student record traced through all of them
 2. **[Risk Acceptance: Template + Worked Example + The Meeting Where It Was Challenged](https://github.com/YOURHANDLE/grc-risk-management)** — how a legacy-system risk actually gets accepted, and defended
@@ -30,7 +30,7 @@ It is organised around one belief:
 
 ## How every artefact in this portfolio is structured
 
-Most GRC portfolios publish blank templates and call it experience. Here, every major artefact ships as a **trio**:
+Most GRC portfolios i have reviewed have blank templates and I find it lacking. So, to the best of my ability, every major artefact here ships as a **trio**:
 
 ```
 artefact/
