@@ -17,6 +17,7 @@ I organised it around one belief:
 ```
 
 ## $\textcolor{Apricot}{\textsf{What This Repository Offers}}$
+It offers a curated, public evidence file that proves and demonstrates my hands-on experience across the full GRC lifecycle (from strategy and policy down to the technical controls that make them real). It collects the actual artefacts I've produced, alongside the judgment behind each decision, so you can see exactly how I work and examine the work directly.
 
 > [!IMPORTANT]
 > **Disclaimer:** Artefacts marked $\textcolor{ForestGreen}{\textsf{production-tested}}$ were used in real engagements (anonymised and fictionalised so that no client data appears anywhere in this portfolio). Artefacts marked $\textcolor{yellow}{\textsf{demonstrative}}$ were built to portfolio standard to show methodology. The distinction stays visible because honest labelling is itself a GRC control.
@@ -72,8 +73,8 @@ Instead of disconnected fictional companies, every scenario in this portfolio ta
 
 ## $\textcolor{LimeGreen }{\textsf{Why did i choose a University?}}$
 
-Because it is a federation, a payment processor, a healthcare provider, a research institution, a landlord, a public body, and an ISP for 30,000 users who change every year. **GRC that works at XUST works anywhere.** That is the thesis of this portfolio — and because it is one universe, the SoA in the compliance repo references the same risk register that drives the vulnerability exceptions in the VM repo. The artefacts interlock the way they do in a real organisation.
-in addition, SA HEIs are also governed by King IV, which is used by companies.
+Because a university is not one organisation. It is a federation of semi-autonomous faculties, a payment processor, a healthcare provider, a research institution handling export-controlled data, a landlord, a public body subject to access-to-information law, and an ISP for tens of thousands of users who change every year. And it runs on a budget a bank would call a rounding error. **GRC that works at XUST works anywhere.** That is the thesis of this portfolio, and because it is one universe, the SoA in the compliance repo references the same risk register that drives the vulnerability exceptions in the VM repo. The artefacts interlock the way they do in a real organisation.
+Finally, SA HEIs are also governed by King IV, which is used by companies.
 
 ```mermaid
 flowchart TD
