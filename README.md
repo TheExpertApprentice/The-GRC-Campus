@@ -16,11 +16,14 @@ I organised it around one belief:
 └──────────────────────────────────────────────────────────────────────┘
 ```
 
-> **Disclaimer:** Artefacts marked `production-tested` were used in real engagements (anonymised and fictionalised so that no client data appears anywhere in this portfolio). Artefacts marked `demonstrative` were built to portfolio standard to show methodology. The distinction stays visible because honest labelling is itself a GRC control.
+## $\textcolor{Apricot}{\textsf{What This Repository Offers}}$
+
+> [!IMPORTANT]
+> **Disclaimer:** Artefacts marked $\textcolor{ForestGreen}{\textsf{production-tested}}$ were used in real engagements (anonymised and fictionalised so that no client data appears anywhere in this portfolio). Artefacts marked $\textcolor{yellow}{\textsf{demonstrative}}$ were built to portfolio standard to show methodology. The distinction stays visible because honest labelling is itself a GRC control.
 
 ---
 
-## ⏱ Quick tour (5 minutes)
+## ⏱ $\color{Apricot}{Quick\ Tour\ (5 Minutes)}$
 
 1. **[The University as a Compliance Microcosm](https://github.com/YOURHANDLE/university-grc-case-study)** — one institution, six regulatory regimes (ISO 27001, POPIA, PAIA, GDPR, PCI DSS, HIPAA-benchmark), one student record traced through all of them
 2. **[Risk Acceptance: Template + Worked Example + The Meeting Where It Was Challenged](https://github.com/YOURHANDLE/grc-risk-management)** — how a legacy-system risk actually gets accepted, and defended
@@ -28,8 +31,7 @@ I organised it around one belief:
 
 ---
 
-## How every artefact in this portfolio is structured
-
+## $\textcolor{LimeGreen}{\textsf{How every artefact in this portfolio is structured}}$
 Most GRC portfolios i have reviewed have blank templates and I find it lacking. So, to the best of my ability, every major artefact here ships as a **trio**:
 
 ```
@@ -40,8 +42,7 @@ artefact/
                        #   • The constraint I was working under
                        #   • The options I rejected, and why
                        #   • The decision I had to defend
-                       #   • Anticipated challenges (auditor / QSA /
-                       #     Information Regulator / Council) — and my answers
+                       #   • Anticipated challenges (auditor / QSA /Information Regulator / Council) — and my answers
                        #   • Where my own argument is weakest
 ```
 
@@ -51,22 +52,24 @@ The third file is the one that matters in an interview. Anyone can download a te
 
 ## One universe, eight repositories
 
-Instead of disconnected fictional companies, every scenario in this portfolio takes place at **XUST** — a fictional composite South African university. Its constraints are stated once and honoured everywhere:
+Instead of disconnected fictional companies, every scenario in this portfolio takes place at **X University of Science and Technology** ($\textcolor{Magenta}{\textbf{XUST}}$) — a fictional composite South African university. Its constraints are stated once and honoured everywhere:
 
 ```
 ┌──────────────────────────── XUST AT A GLANCE ────────────────────────────┐
 │                                                                          │
-│  31,000 students · 3,400 staff · 7 semi-autonomous faculties             │
+│  21,000 students · 3,400 staff · 7 semi-autonomous faculties             │
 │  Public HEI → subject to PAIA, POPIA, King IV expectations               │
-│  Campus clinic (special personal information) · Card payments (PCI)      │
-│  International students (GDPR exposure) · Research data · Residences     │
-│  IT security headcount: 4. Security budget: a rounding error.            │
+│  Campus clinic (processes special personal information)                  |
+|  Finance processes Card payments (PCI)                                   │
+│  International students (GDPR exposure) +  Residences data               │
+│  IP theft risk: Research data, project infos, budgets etc                |
+|  IT security headcount: 4.                                               │
+│  Security budget: a rounding error.                                      │
 │  Political reality: faculties answer to Deans before they answer to IT.  │
 │                                                                          │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
-
-Why a university? 
+## $\textcolor{LimeGreen }{\textsf{Why did i choose a University?}}$
 
 Because it is a federation, a payment processor, a healthcare provider, a research institution, a landlord, a public body, and an ISP for 30,000 users who change every year. **GRC that works at XUST works anywhere.** That is the thesis of this portfolio — and because it is one universe, the SoA in the compliance repo references the same risk register that drives the vulnerability exceptions in the VM repo. The artefacts interlock the way they do in a real organisation.
 in addition, SA HEIs are also governed by King IV, which is used by companies.
