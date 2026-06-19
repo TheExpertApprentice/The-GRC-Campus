@@ -143,13 +143,12 @@ If you can't trace your control from the boardroom to the log line, you don't co
 
 ## Beyond the artefacts
 
-- 🎤 Conference presenter — NATE (South African university IT professionals): Wazuh security log analysis for resource-constrained institutions
-- 🧭 Mentor to 120+ IT graduates into employment, with a focus on non-traditional candidates
-- ✍️ Writing on the gap between governance on paper and governance in practice — [LinkedIn](#)
+-  Mentor to 120+ IT graduates into employment
+-  Simplifying IT Concepts for Non-technical audiences
 
 ## Contact
 
-**[LinkedIn](#)** · **[Email](#)** · Open to senior GRC, CISO, and advisory conversations — SA and international.
+**[LinkedIn](linkedin.com/in/cnejike)** · **[Email](#)** · Open to senior GRC, CISO, and advisory conversations — SA and international.
 
 ---
 
