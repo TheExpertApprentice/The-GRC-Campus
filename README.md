@@ -141,7 +141,7 @@ If you can't trace your control from the boardroom to the log line, you don't co
 
 ---
 
-## Beyond the artefacts
+## Beyond this repo
 
 -  Mentor to 120+ IT graduates into employment
 -  Simplifying IT Concepts for Non-technical audiences
