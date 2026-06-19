@@ -1,4 +1,4 @@
-# The GRC Campus — Chris 
+# Chris' GRC Campus
 
 **Senior GRC Analyst | Fractional CISO | CISSP | ISO 27001 Lead Implementer**
 
