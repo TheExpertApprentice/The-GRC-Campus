@@ -27,7 +27,7 @@ It offers a curated, public evidence file that proves and demonstrates my hands-
 ## ⏱ $\color{Apricot}{Quick\ Tour\ (5 Minutes)}$
 
 1. **[The University as a Compliance Microcosm](https://github.com/YOURHANDLE/university-grc-case-study)** — one institution, six regulatory regimes (ISO 27001, POPIA, PAIA, GDPR, PCI DSS, HIPAA-benchmark), one student record traced through all of them
-2. **[Risk Acceptance: Template + Worked Example + The Meeting Where It Was Challenged](https://github.com/YOURHANDLE/grc-risk-management)** — how a legacy-system risk actually gets accepted, and defended
+2. **[Risk Acceptance: Template + Worked Example + The Meeting Where It Was Challenged]([https://github.com/YOURHANDLE/grc-risk-management](https://github.com/TheExpertApprentice/grc-risk-management/tree/main))** — how a legacy-system risk actually gets accepted, and defended
 3. **[Oracle Audit Vault Replacement](https://github.com/YOURHANDLE/grc-security-operations)** — Wazuh + Oracle Unified Auditing architecture that eliminated a six-figure annual licence cost. Policy → procedure → detection rule, end to end.
 
 ---
