@@ -100,7 +100,7 @@ flowchart TD
 |---|---|---|
 | [university-grc-case-study](https://github.com/YOURHANDLE/university-grc-case-study) | How six regulatory regimes are run as one programme, not six projects | ⭐ Flagship |
 | [grc-governance](https://github.com/YOURHANDLE/grc-governance) | What Council actually needs to see — and what it doesn't (King IV ↔ NIST CSF ↔ ISO 27001) | Production-tested |
-| [grc-risk-management](https://github.com/YOURHANDLE/grc-risk-management) | When accepting a risk is the right call — and how to write it so it survives scrutiny | Production-tested |
+| [grc-risk-management](https://github.com/TheExpertApprentice/grc-risk-management/tree/main) | When accepting a risk is the right call — and how to write it so it survives scrutiny | Production-tested |
 | [grc-compliance](https://github.com/YOURHANDLE/grc-compliance) | Which Annex A controls to exclude, and defending the exclusions (risk-driven SoA) | Mixed |
 | [grc-vulnerability-management](https://github.com/YOURHANDLE/grc-vulnerability-management) | Why some vulnerabilities don't get patched — exception governance done properly | Production-tested |
 | [grc-security-operations](https://github.com/YOURHANDLE/grc-security-operations) | Replacing a commercial audit platform with open source — and proving equivalence | Production-tested |
