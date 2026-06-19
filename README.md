@@ -27,7 +27,7 @@ It offers a curated, public evidence file that proves and demonstrates my hands-
 ## ⏱ $\color{Apricot}{Quick\ Tour\ (5 Minutes)}$
 
 1. **[The University as a Compliance Microcosm](https://github.com/YOURHANDLE/university-grc-case-study)** — one institution, six regulatory regimes (ISO 27001, POPIA, PAIA, GDPR, PCI DSS, HIPAA-benchmark), one student record traced through all of them
-2. **[Risk Acceptance: Template + Worked Example + The Meeting Where It Was Challenged](https://github.com/TheExpertApprentice/grc-risk-management/tree/main)** — how a legacy-system risk actually gets accepted, and defended
+2. **[Risk Management + Worked Example + Template](https://github.com/TheExpertApprentice/grc-risk-management/tree/main)** — how a vendor risk actually gets accepted, and defended
 3. **[Oracle Audit Vault Replacement](https://github.com/YOURHANDLE/grc-security-operations)** — Wazuh + Oracle Unified Auditing architecture that eliminated a six-figure annual licence cost. Policy → procedure → detection rule, end to end.
 
 ---
@@ -134,7 +134,7 @@ If you can't trace your control from the boardroom to the log line, you don't co
 ## Senior signals — how I work
 
 - **Constraints stated up front.** Every scenario names its budget, headcount, deadline, and political reality before any artefact appears. Trade-offs without constraints are theatre.
-- **Exclusions documented as carefully as inclusions.** What I scoped out, what I didn't patch, what I declined to recommend — with reasoning.
+- **Exclusions documented as carefully as inclusions.** What I scoped out, what I didn't patch, what I declined to recommend, with reasoning.
 - **Anticipated challenge built in.** Each decision record ends with the pushback I expect — from the auditor, the QSA, the Information Regulator, or the Council member who read one article about cyber — and my answer.
 - **Where my argument is weakest.** Stated honestly in each decision record, because credibility compounds and bluffing doesn't survive audits.
 - **Write once, brief twice.** Major artefacts ship in practitioner and executive registers. If you can't compress it for Council, you don't understand it yet.
